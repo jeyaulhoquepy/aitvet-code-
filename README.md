@@ -6,4 +6,4 @@
 
 pip install numpy pandas matplotlib seaborn scikit-learn scipy requests beautifulsoup4 lxml scrapy django flask fastapi sqlalchemy pymongo psycopg2-binary pillow opencv-python pygame jupyter notebook
 
-![alt text](image.png)
+![alt text](image.png)  লিনাকে্সের একজন প্রবোরতক 
